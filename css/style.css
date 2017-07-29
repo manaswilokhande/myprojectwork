@@ -1,0 +1,165 @@
+.header
+{
+	background-color:#222;
+	color: #fff;
+}
+
+html
+{display:inline-block;}
+
+.logo img
+{
+	width:106px;
+	height:77px;
+}
+
+.navbar-inverse .navbar-collapse
+{
+	border:#222 !important;
+}
+
+.nav li a
+{
+	color:#fff;
+}
+
+.nav li a:hover
+{
+	color:#000;
+}
+
+.navbar-inverse
+{
+	background-color:none !important;
+}
+
+.main-content h2
+{
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+	color:#000;
+	text-align:center;
+}
+
+.main-content p
+{
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:14px;
+	color:#000;
+	text-align:justify;
+	padding:20px;
+}
+
+.aboutus
+{
+	background-color:#eee;
+	color: #000;
+}
+
+.aboutus h2{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.works
+{
+	background-color:#fff;
+	color: #000;	
+}
+
+.works h2{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.contacts
+{
+	background-color:#eee;
+	color: #000;	
+}
+
+.contacts h2{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#contact .form-group textarea.form-control {
+    height: 236px;
+}
+
+.btn-black{
+	background-color:#000;
+	color:#fff;
+}
+
+.btn-black:hover
+{
+	background-color:#eee;
+	color:#000;
+	border:1px solid #000;
+}
+
+.text-center{
+	text-align:center;
+}
+
+.padding-bottom-20
+{
+	padding-bottom:20px;
+}
+
+.footer-padding
+{
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color:#000;
+	
+}
+
+.footer-padding span
+{
+	color:#fff;	
+}
+
+ul.social-buttons li a
+{
+	display: block;
+    height: 40px;
+    width: 40px; 
+    border-radius: 100%;
+    color: #fff;
+	text-align: center;
+    outline: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+	}
+	
+.quicklinks a
+{
+	color:#fff;
+}
+
+ul.social-buttons li a i
+{
+	vertical-align:center;	
+}
+
+.glyphicon
+{
+	margin-right: 10px !important;
+}
+
+.navbar-inverse .navbar-nav > li > a
+{
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:14px;
+	color:#fff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover
+{
+	color:#eee;
+	font-size:15px;
+}
